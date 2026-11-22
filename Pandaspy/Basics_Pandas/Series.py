@@ -20,9 +20,9 @@ print(f"Element accessing using iloc with  index: {series.iloc[0]}")
 
 
 #Filtering data
-print("---Filtering data---")
+print("\n---Filtering data---")
 num_data=pd.Series([1,2,3,4,80,99,85,34,5,6,22,1])
-print("Filtered Data:\nIndex\tElement\n",num_data[num_data>30])
+print("Filtered Data element>30:\nIndex\tElement\n",num_data[num_data>30])
 
 #Shape and Datatype
 print("Shape:",series.shape)

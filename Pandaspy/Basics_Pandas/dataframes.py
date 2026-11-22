@@ -14,8 +14,8 @@ print("\n---Loc property---")
 print("Element at index 0:\n",df.loc["Brother 1"])  #Give all the data of a
 print()
 print("Element at index 1:\n",df.iloc[1])   #Give all the data about person at index 1
+print("Loc by shiv:\n",df.loc[df["Character"]=="Good character",["Age","Name"]]),#Returns row in which caharcter =Good character with given columns age and name
 print()
-print("Loc by shiv:",df.loc["Brother 1","Age"])
 
 #ADDING A NEW COLUMN INTO DATAFRAME
 
@@ -38,3 +38,9 @@ new_row2=pd.DataFrame([{"Name":"Umera","Age":39,"Character":"Soft Hearted"},
 print("\n---Added Multiple New Rows Into Data Frame---")
 new_df=pd.concat([new_row1,df,new_row2])  #Sequence matters
 print(new_df)
+
+#Basic Methods
+
+df["Name"].unique()  #Return the number of unique values present in Name column
+df["Name"].nunique() #Return the totall number of unquie values present in Name column
+df["Name"].value_counts() #Retuns total number of unquie values and their total occurence

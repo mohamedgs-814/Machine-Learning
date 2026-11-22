@@ -8,7 +8,7 @@ Data Cleaning= The processs of fic=xing/removing
 
 df=pd.read_csv(r"D:\Python_AI\MACHINE LEARNING COURSE\data_students.csv")
 
-# print(df.to_string())
+print(df.to_string())
 
 df=df.drop(columns=["Roll_Number","Gender"])
 
