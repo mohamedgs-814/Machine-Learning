@@ -1,0 +1,902 @@
+[
+  {
+    "Student_ID": "S001",
+    "Name": "Aarav Kulkarni",
+    "Total_Days": 200,
+    "Days_Present": 164,
+    "Marks": 100,
+    "Hobby": "Badminton",
+    "Attendance_Percentage": 82.0
+  },
+  {
+    "Student_ID": "S002",
+    "Name": "Aarav Patel",
+    "Total_Days": 200,
+    "Days_Present": 198,
+    "Marks": 72,
+    "Hobby": "Music",
+    "Attendance_Percentage": 99.0
+  },
+  {
+    "Student_ID": "S003",
+    "Name": "Aarav Rao",
+    "Total_Days": 200,
+    "Days_Present": 149,
+    "Marks": 55,
+    "Hobby": "Dancing",
+    "Attendance_Percentage": 74.5
+  },
+  {
+    "Student_ID": "S004",
+    "Name": "Aditya Kulkarni",
+    "Total_Days": 200,
+    "Days_Present": 166,
+    "Marks": 86,
+    "Hobby": "Singing",
+    "Attendance_Percentage": 83.0
+  },
+  {
+    "Student_ID": "S005",
+    "Name": "Aditya Kumar",
+    "Total_Days": 200,
+    "Days_Present": 176,
+    "Marks": 65,
+    "Hobby": "Cricket",
+    "Attendance_Percentage": 88.0
+  },
+  {
+    "Student_ID": "S006",
+    "Name": "Aditya Patel",
+    "Total_Days": 200,
+    "Days_Present": 153,
+    "Marks": 75,
+    "Hobby": "Reading",
+    "Attendance_Percentage": 76.5
+  },
+  {
+    "Student_ID": "S007",
+    "Name": "Aditya Pillai",
+    "Total_Days": 200,
+    "Days_Present": 185,
+    "Marks": 59,
+    "Hobby": "Reading",
+    "Attendance_Percentage": 92.5
+  },
+  {
+    "Student_ID": "S008",
+    "Name": "Aditya Reddy",
+    "Total_Days": 200,
+    "Days_Present": 119,
+    "Marks": 61,
+    "Hobby": "Cooking",
+    "Attendance_Percentage": 59.5
+  },
+  {
+    "Student_ID": "S009",
+    "Name": "Aditya Singh",
+    "Total_Days": 200,
+    "Days_Present": 190,
+    "Marks": 82,
+    "Hobby": "Reading",
+    "Attendance_Percentage": 95.0
+  },
+  {
+    "Student_ID": "S010",
+    "Name": "Aishwarya Das",
+    "Total_Days": 200,
+    "Days_Present": 152,
+    "Marks": 74,
+    "Hobby": "Cricket",
+    "Attendance_Percentage": 76.0
+  },
+  {
+    "Student_ID": "S011",
+    "Name": "Aishwarya Kulkarni",
+    "Total_Days": 200,
+    "Days_Present": 175,
+    "Marks": 77,
+    "Hobby": "Music",
+    "Attendance_Percentage": 87.5
+  },
+  {
+    "Student_ID": "S012",
+    "Name": "Aishwarya Pillai",
+    "Total_Days": 200,
+    "Days_Present": 179,
+    "Marks": 97,
+    "Hobby": "Football",
+    "Attendance_Percentage": 89.5
+  },
+  {
+    "Student_ID": "S013",
+    "Name": "Aishwarya Sharma",
+    "Total_Days": 200,
+    "Days_Present": 183,
+    "Marks": 67,
+    "Hobby": "Coding",
+    "Attendance_Percentage": 91.5
+  },
+  {
+    "Student_ID": "S014",
+    "Name": "Ananya Rao",
+    "Total_Days": 200,
+    "Days_Present": 162,
+    "Marks": 68,
+    "Hobby": "Music",
+    "Attendance_Percentage": 81.0
+  },
+  {
+    "Student_ID": "S015",
+    "Name": "Arjun Joshi",
+    "Total_Days": 200,
+    "Days_Present": 122,
+    "Marks": 79,
+    "Hobby": "Gaming",
+    "Attendance_Percentage": 61.0
+  },
+  {
+    "Student_ID": "S016",
+    "Name": "Arjun Menon",
+    "Total_Days": 200,
+    "Days_Present": 162,
+    "Marks": 82,
+    "Hobby": "Coding",
+    "Attendance_Percentage": 81.0
+  },
+  {
+    "Student_ID": "S017",
+    "Name": "Arjun Patel",
+    "Total_Days": 200,
+    "Days_Present": 116,
+    "Marks": 48,
+    "Hobby": "Cricket",
+    "Attendance_Percentage": 58.0
+  },
+  {
+    "Student_ID": "S018",
+    "Name": "Deepak Hegde",
+    "Total_Days": 200,
+    "Days_Present": 117,
+    "Marks": 31,
+    "Hobby": "Gaming",
+    "Attendance_Percentage": 58.5
+  },
+  {
+    "Student_ID": "S019",
+    "Name": "Deepak Kulkarni",
+    "Total_Days": 200,
+    "Days_Present": 153,
+    "Marks": 74,
+    "Hobby": "Music",
+    "Attendance_Percentage": 76.5
+  },
+  {
+    "Student_ID": "S020",
+    "Name": "Deepak Naidu",
+    "Total_Days": 200,
+    "Days_Present": 134,
+    "Marks": 63,
+    "Hobby": "Photography",
+    "Attendance_Percentage": 67.0
+  },
+  {
+    "Student_ID": "S021",
+    "Name": "Deepak Pillai",
+    "Total_Days": 200,
+    "Days_Present": 167,
+    "Marks": 80,
+    "Hobby": "Coding",
+    "Attendance_Percentage": 83.5
+  },
+  {
+    "Student_ID": "S022",
+    "Name": "Deepak Rao",
+    "Total_Days": 200,
+    "Days_Present": 141,
+    "Marks": 77,
+    "Hobby": "Traveling",
+    "Attendance_Percentage": 70.5
+  },
+  {
+    "Student_ID": "S023",
+    "Name": "Divya Bhat",
+    "Total_Days": 200,
+    "Days_Present": 119,
+    "Marks": 41,
+    "Hobby": "Photography",
+    "Attendance_Percentage": 59.5
+  },
+  {
+    "Student_ID": "S024",
+    "Name": "Divya Patel",
+    "Total_Days": 200,
+    "Days_Present": 122,
+    "Marks": 77,
+    "Hobby": "Reading",
+    "Attendance_Percentage": 61.0
+  },
+  {
+    "Student_ID": "S025",
+    "Name": "Divya Reddy",
+    "Total_Days": 200,
+    "Days_Present": 193,
+    "Marks": 100,
+    "Hobby": "Cricket",
+    "Attendance_Percentage": 96.5
+  },
+  {
+    "Student_ID": "S026",
+    "Name": "Diya Joshi",
+    "Total_Days": 200,
+    "Days_Present": 140,
+    "Marks": 70,
+    "Hobby": "Football",
+    "Attendance_Percentage": 70.0
+  },
+  {
+    "Student_ID": "S027",
+    "Name": "Diya Singh",
+    "Total_Days": 200,
+    "Days_Present": 162,
+    "Marks": 64,
+    "Hobby": "Gaming",
+    "Attendance_Percentage": 81.0
+  },
+  {
+    "Student_ID": "S028",
+    "Name": "Harsh Nair",
+    "Total_Days": 200,
+    "Days_Present": 117,
+    "Marks": 67,
+    "Hobby": "Football",
+    "Attendance_Percentage": 58.5
+  },
+  {
+    "Student_ID": "S029",
+    "Name": "Isha Bhat",
+    "Total_Days": 200,
+    "Days_Present": 158,
+    "Marks": 87,
+    "Hobby": "Singing",
+    "Attendance_Percentage": 79.0
+  },
+  {
+    "Student_ID": "S030",
+    "Name": "Isha Gupta",
+    "Total_Days": 200,
+    "Days_Present": 168,
+    "Marks": 74,
+    "Hobby": "Painting",
+    "Attendance_Percentage": 84.0
+  },
+  {
+    "Student_ID": "S031",
+    "Name": "Isha Kumar",
+    "Total_Days": 200,
+    "Days_Present": 164,
+    "Marks": 66,
+    "Hobby": "Badminton",
+    "Attendance_Percentage": 82.0
+  },
+  {
+    "Student_ID": "S032",
+    "Name": "Isha Nair",
+    "Total_Days": 200,
+    "Days_Present": 181,
+    "Marks": 55,
+    "Hobby": "Swimming",
+    "Attendance_Percentage": 90.5
+  },
+  {
+    "Student_ID": "S033",
+    "Name": "Isha Rao",
+    "Total_Days": 200,
+    "Days_Present": 172,
+    "Marks": 81,
+    "Hobby": "Reading",
+    "Attendance_Percentage": 86.0
+  },
+  {
+    "Student_ID": "S034",
+    "Name": "Isha Sharma",
+    "Total_Days": 200,
+    "Days_Present": 184,
+    "Marks": 86,
+    "Hobby": "Cooking",
+    "Attendance_Percentage": 92.0
+  },
+  {
+    "Student_ID": "S035",
+    "Name": "Karthik Kulkarni",
+    "Total_Days": 200,
+    "Days_Present": 179,
+    "Marks": 87,
+    "Hobby": "Reading",
+    "Attendance_Percentage": 89.5
+  },
+  {
+    "Student_ID": "S036",
+    "Name": "Karthik Kumar",
+    "Total_Days": 200,
+    "Days_Present": 184,
+    "Marks": 81,
+    "Hobby": "Coding",
+    "Attendance_Percentage": 92.0
+  },
+  {
+    "Student_ID": "S037",
+    "Name": "Karthik Naidu",
+    "Total_Days": 200,
+    "Days_Present": 174,
+    "Marks": 90,
+    "Hobby": "Reading",
+    "Attendance_Percentage": 87.0
+  },
+  {
+    "Student_ID": "S038",
+    "Name": "Kavya Joshi",
+    "Total_Days": 200,
+    "Days_Present": 175,
+    "Marks": 67,
+    "Hobby": "Cricket",
+    "Attendance_Percentage": 87.5
+  },
+  {
+    "Student_ID": "S039",
+    "Name": "Kavya Pillai",
+    "Total_Days": 200,
+    "Days_Present": 133,
+    "Marks": 74,
+    "Hobby": "Traveling",
+    "Attendance_Percentage": 66.5
+  },
+  {
+    "Student_ID": "S040",
+    "Name": "Kavya Sharma",
+    "Total_Days": 200,
+    "Days_Present": 140,
+    "Marks": 72,
+    "Hobby": "Gaming",
+    "Attendance_Percentage": 70.0
+  },
+  {
+    "Student_ID": "S041",
+    "Name": "Lakshmi Mehta",
+    "Total_Days": 200,
+    "Days_Present": 125,
+    "Marks": 85,
+    "Hobby": "Chess",
+    "Attendance_Percentage": 62.5
+  },
+  {
+    "Student_ID": "S042",
+    "Name": "Lakshmi Menon",
+    "Total_Days": 200,
+    "Days_Present": 186,
+    "Marks": 70,
+    "Hobby": "Reading",
+    "Attendance_Percentage": 93.0
+  },
+  {
+    "Student_ID": "S043",
+    "Name": "Lakshmi Nair",
+    "Total_Days": 200,
+    "Days_Present": 189,
+    "Marks": 95,
+    "Hobby": "Chess",
+    "Attendance_Percentage": 94.5
+  },
+  {
+    "Student_ID": "S044",
+    "Name": "Manoj Kulkarni",
+    "Total_Days": 200,
+    "Days_Present": 176,
+    "Marks": 85,
+    "Hobby": "Dancing",
+    "Attendance_Percentage": 88.0
+  },
+  {
+    "Student_ID": "S045",
+    "Name": "Manoj Nair",
+    "Total_Days": 200,
+    "Days_Present": 143,
+    "Marks": 77,
+    "Hobby": "Music",
+    "Attendance_Percentage": 71.5
+  },
+  {
+    "Student_ID": "S046",
+    "Name": "Manoj Rao",
+    "Total_Days": 200,
+    "Days_Present": 143,
+    "Marks": 92,
+    "Hobby": "Gaming",
+    "Attendance_Percentage": 71.5
+  },
+  {
+    "Student_ID": "S047",
+    "Name": "Meera Sharma",
+    "Total_Days": 200,
+    "Days_Present": 126,
+    "Marks": 62,
+    "Hobby": "Dancing",
+    "Attendance_Percentage": 63.0
+  },
+  {
+    "Student_ID": "S048",
+    "Name": "Neha Singh",
+    "Total_Days": 200,
+    "Days_Present": 119,
+    "Marks": 56,
+    "Hobby": "Reading",
+    "Attendance_Percentage": 59.5
+  },
+  {
+    "Student_ID": "S049",
+    "Name": "Nikhil Mehta",
+    "Total_Days": 200,
+    "Days_Present": 168,
+    "Marks": 61,
+    "Hobby": "Cricket",
+    "Attendance_Percentage": 84.0
+  },
+  {
+    "Student_ID": "S050",
+    "Name": "Pooja Gupta",
+    "Total_Days": 200,
+    "Days_Present": 119,
+    "Marks": 54,
+    "Hobby": "Photography",
+    "Attendance_Percentage": 59.5
+  },
+  {
+    "Student_ID": "S051",
+    "Name": "Pooja Mehta",
+    "Total_Days": 200,
+    "Days_Present": 137,
+    "Marks": 62,
+    "Hobby": "Dancing",
+    "Attendance_Percentage": 68.5
+  },
+  {
+    "Student_ID": "S052",
+    "Name": "Pooja Naidu",
+    "Total_Days": 200,
+    "Days_Present": 118,
+    "Marks": 66,
+    "Hobby": "Singing",
+    "Attendance_Percentage": 59.0
+  },
+  {
+    "Student_ID": "S053",
+    "Name": "Pooja Nair",
+    "Total_Days": 200,
+    "Days_Present": 141,
+    "Marks": 65,
+    "Hobby": "Traveling",
+    "Attendance_Percentage": 70.5
+  },
+  {
+    "Student_ID": "S054",
+    "Name": "Pooja Rao",
+    "Total_Days": 200,
+    "Days_Present": 179,
+    "Marks": 82,
+    "Hobby": "Cooking",
+    "Attendance_Percentage": 89.5
+  },
+  {
+    "Student_ID": "S055",
+    "Name": "Priya Das",
+    "Total_Days": 200,
+    "Days_Present": 148,
+    "Marks": 40,
+    "Hobby": "Swimming",
+    "Attendance_Percentage": 74.0
+  },
+  {
+    "Student_ID": "S056",
+    "Name": "Priya Hegde",
+    "Total_Days": 200,
+    "Days_Present": 177,
+    "Marks": 49,
+    "Hobby": "Reading",
+    "Attendance_Percentage": 88.5
+  },
+  {
+    "Student_ID": "S057",
+    "Name": "Priya Joshi",
+    "Total_Days": 200,
+    "Days_Present": 195,
+    "Marks": 83,
+    "Hobby": "Swimming",
+    "Attendance_Percentage": 97.5
+  },
+  {
+    "Student_ID": "S058",
+    "Name": "Priya Nair",
+    "Total_Days": 200,
+    "Days_Present": 123,
+    "Marks": 57,
+    "Hobby": "Singing",
+    "Attendance_Percentage": 61.5
+  },
+  {
+    "Student_ID": "S059",
+    "Name": "Priya Rao",
+    "Total_Days": 200,
+    "Days_Present": 127,
+    "Marks": 65,
+    "Hobby": "Cooking",
+    "Attendance_Percentage": 63.5
+  },
+  {
+    "Student_ID": "S060",
+    "Name": "Rahul Iyer",
+    "Total_Days": 200,
+    "Days_Present": 180,
+    "Marks": 100,
+    "Hobby": "Football",
+    "Attendance_Percentage": 90.0
+  },
+  {
+    "Student_ID": "S061",
+    "Name": "Rahul Kumar",
+    "Total_Days": 200,
+    "Days_Present": 144,
+    "Marks": 69,
+    "Hobby": "Dancing",
+    "Attendance_Percentage": 72.0
+  },
+  {
+    "Student_ID": "S062",
+    "Name": "Rahul Pillai",
+    "Total_Days": 200,
+    "Days_Present": 136,
+    "Marks": 79,
+    "Hobby": "Swimming",
+    "Attendance_Percentage": 68.0
+  },
+  {
+    "Student_ID": "S063",
+    "Name": "Rahul Reddy",
+    "Total_Days": 200,
+    "Days_Present": 191,
+    "Marks": 88,
+    "Hobby": "Painting",
+    "Attendance_Percentage": 95.5
+  },
+  {
+    "Student_ID": "S064",
+    "Name": "Rahul Verma",
+    "Total_Days": 200,
+    "Days_Present": 116,
+    "Marks": 53,
+    "Hobby": "Cricket",
+    "Attendance_Percentage": 58.0
+  },
+  {
+    "Student_ID": "S065",
+    "Name": "Riya Gupta",
+    "Total_Days": 200,
+    "Days_Present": 191,
+    "Marks": 68,
+    "Hobby": "Reading",
+    "Attendance_Percentage": 95.5
+  },
+  {
+    "Student_ID": "S066",
+    "Name": "Riya Hegde",
+    "Total_Days": 200,
+    "Days_Present": 152,
+    "Marks": 77,
+    "Hobby": "Badminton",
+    "Attendance_Percentage": 76.0
+  },
+  {
+    "Student_ID": "S067",
+    "Name": "Riya Patel",
+    "Total_Days": 200,
+    "Days_Present": 126,
+    "Marks": 61,
+    "Hobby": "Cooking",
+    "Attendance_Percentage": 63.0
+  },
+  {
+    "Student_ID": "S068",
+    "Name": "Riya Rao",
+    "Total_Days": 200,
+    "Days_Present": 166,
+    "Marks": 66,
+    "Hobby": "Photography",
+    "Attendance_Percentage": 83.0
+  },
+  {
+    "Student_ID": "S069",
+    "Name": "Riya Singh",
+    "Total_Days": 200,
+    "Days_Present": 200,
+    "Marks": 77,
+    "Hobby": "Cricket",
+    "Attendance_Percentage": 100.0
+  },
+  {
+    "Student_ID": "S070",
+    "Name": "Riya Verma",
+    "Total_Days": 200,
+    "Days_Present": 198,
+    "Marks": 80,
+    "Hobby": "Singing",
+    "Attendance_Percentage": 99.0
+  },
+  {
+    "Student_ID": "S071",
+    "Name": "Rohan Hegde",
+    "Total_Days": 200,
+    "Days_Present": 129,
+    "Marks": 43,
+    "Hobby": "Chess",
+    "Attendance_Percentage": 64.5
+  },
+  {
+    "Student_ID": "S072",
+    "Name": "Rohan Joshi",
+    "Total_Days": 200,
+    "Days_Present": 180,
+    "Marks": 68,
+    "Hobby": "Football",
+    "Attendance_Percentage": 90.0
+  },
+  {
+    "Student_ID": "S073",
+    "Name": "Sai Gupta",
+    "Total_Days": 200,
+    "Days_Present": 165,
+    "Marks": 82,
+    "Hobby": "Singing",
+    "Attendance_Percentage": 82.5
+  },
+  {
+    "Student_ID": "S074",
+    "Name": "Sai Joshi",
+    "Total_Days": 200,
+    "Days_Present": 115,
+    "Marks": 75,
+    "Hobby": "Singing",
+    "Attendance_Percentage": 57.5
+  },
+  {
+    "Student_ID": "S075",
+    "Name": "Sai Kumar",
+    "Total_Days": 200,
+    "Days_Present": 155,
+    "Marks": 75,
+    "Hobby": "Cricket",
+    "Attendance_Percentage": 77.5
+  },
+  {
+    "Student_ID": "S076",
+    "Name": "Sai Naidu",
+    "Total_Days": 200,
+    "Days_Present": 155,
+    "Marks": 83,
+    "Hobby": "Badminton",
+    "Attendance_Percentage": 77.5
+  },
+  {
+    "Student_ID": "S077",
+    "Name": "Sai Nair",
+    "Total_Days": 200,
+    "Days_Present": 181,
+    "Marks": 87,
+    "Hobby": "Chess",
+    "Attendance_Percentage": 90.5
+  },
+  {
+    "Student_ID": "S078",
+    "Name": "Sai Rao",
+    "Total_Days": 200,
+    "Days_Present": 129,
+    "Marks": 59,
+    "Hobby": "Singing",
+    "Attendance_Percentage": 64.5
+  },
+  {
+    "Student_ID": "S079",
+    "Name": "Sai Singh",
+    "Total_Days": 200,
+    "Days_Present": 140,
+    "Marks": 95,
+    "Hobby": "Badminton",
+    "Attendance_Percentage": 70.0
+  },
+  {
+    "Student_ID": "S080",
+    "Name": "Shreya Joshi",
+    "Total_Days": 200,
+    "Days_Present": 132,
+    "Marks": 40,
+    "Hobby": "Singing",
+    "Attendance_Percentage": 66.0
+  },
+  {
+    "Student_ID": "S081",
+    "Name": "Shreya Menon",
+    "Total_Days": 200,
+    "Days_Present": 162,
+    "Marks": 96,
+    "Hobby": "Dancing",
+    "Attendance_Percentage": 81.0
+  },
+  {
+    "Student_ID": "S082",
+    "Name": "Shreya Verma",
+    "Total_Days": 200,
+    "Days_Present": 162,
+    "Marks": 77,
+    "Hobby": "Badminton",
+    "Attendance_Percentage": 81.0
+  },
+  {
+    "Student_ID": "S083",
+    "Name": "Sneha Gupta",
+    "Total_Days": 200,
+    "Days_Present": 195,
+    "Marks": 95,
+    "Hobby": "Painting",
+    "Attendance_Percentage": 97.5
+  },
+  {
+    "Student_ID": "S084",
+    "Name": "Sneha Kumar",
+    "Total_Days": 200,
+    "Days_Present": 130,
+    "Marks": 49,
+    "Hobby": "Badminton",
+    "Attendance_Percentage": 65.0
+  },
+  {
+    "Student_ID": "S085",
+    "Name": "Sneha Pillai",
+    "Total_Days": 200,
+    "Days_Present": 199,
+    "Marks": 100,
+    "Hobby": "Traveling",
+    "Attendance_Percentage": 99.5
+  },
+  {
+    "Student_ID": "S086",
+    "Name": "Sneha Reddy",
+    "Total_Days": 200,
+    "Days_Present": 170,
+    "Marks": 92,
+    "Hobby": "Music",
+    "Attendance_Percentage": 85.0
+  },
+  {
+    "Student_ID": "S087",
+    "Name": "Suresh Patel",
+    "Total_Days": 200,
+    "Days_Present": 135,
+    "Marks": 76,
+    "Hobby": "Painting",
+    "Attendance_Percentage": 67.5
+  },
+  {
+    "Student_ID": "S088",
+    "Name": "Suresh Shetty",
+    "Total_Days": 200,
+    "Days_Present": 139,
+    "Marks": 56,
+    "Hobby": "Music",
+    "Attendance_Percentage": 69.5
+  },
+  {
+    "Student_ID": "S089",
+    "Name": "Tanvi Reddy",
+    "Total_Days": 200,
+    "Days_Present": 113,
+    "Marks": 58,
+    "Hobby": "Painting",
+    "Attendance_Percentage": 56.5
+  },
+  {
+    "Student_ID": "S090",
+    "Name": "Tanvi Shetty",
+    "Total_Days": 200,
+    "Days_Present": 118,
+    "Marks": 55,
+    "Hobby": "Badminton",
+    "Attendance_Percentage": 59.0
+  },
+  {
+    "Student_ID": "S091",
+    "Name": "Tanvi Verma",
+    "Total_Days": 200,
+    "Days_Present": 145,
+    "Marks": 61,
+    "Hobby": "Swimming",
+    "Attendance_Percentage": 72.5
+  },
+  {
+    "Student_ID": "S092",
+    "Name": "Varun Gupta",
+    "Total_Days": 200,
+    "Days_Present": 178,
+    "Marks": 89,
+    "Hobby": "Dancing",
+    "Attendance_Percentage": 89.0
+  },
+  {
+    "Student_ID": "S093",
+    "Name": "Varun Iyer",
+    "Total_Days": 200,
+    "Days_Present": 113,
+    "Marks": 94,
+    "Hobby": "Football",
+    "Attendance_Percentage": 56.5
+  },
+  {
+    "Student_ID": "S094",
+    "Name": "Varun Kulkarni",
+    "Total_Days": 200,
+    "Days_Present": 184,
+    "Marks": 100,
+    "Hobby": "Painting",
+    "Attendance_Percentage": 92.0
+  },
+  {
+    "Student_ID": "S095",
+    "Name": "Varun Menon",
+    "Total_Days": 200,
+    "Days_Present": 114,
+    "Marks": 78,
+    "Hobby": "Cooking",
+    "Attendance_Percentage": 57.0
+  },
+  {
+    "Student_ID": "S096",
+    "Name": "Varun Rao",
+    "Total_Days": 200,
+    "Days_Present": 150,
+    "Marks": 81,
+    "Hobby": "Gaming",
+    "Attendance_Percentage": 75.0
+  },
+  {
+    "Student_ID": "S097",
+    "Name": "Varun Verma",
+    "Total_Days": 200,
+    "Days_Present": 187,
+    "Marks": 84,
+    "Hobby": "Singing",
+    "Attendance_Percentage": 93.5
+  },
+  {
+    "Student_ID": "S098",
+    "Name": "Vikram Bhat",
+    "Total_Days": 200,
+    "Days_Present": 183,
+    "Marks": 76,
+    "Hobby": "Music",
+    "Attendance_Percentage": 91.5
+  },
+  {
+    "Student_ID": "S099",
+    "Name": "Vikram Sharma",
+    "Total_Days": 200,
+    "Days_Present": 142,
+    "Marks": 85,
+    "Hobby": "Photography",
+    "Attendance_Percentage": 71.0
+  },
+  {
+    "Student_ID": "S100",
+    "Name": "Vivaan Kumar",
+    "Total_Days": 200,
+    "Days_Present": 178,
+    "Marks": 80,
+    "Hobby": "Swimming",
+    "Attendance_Percentage": 89.0
+  }
+]
